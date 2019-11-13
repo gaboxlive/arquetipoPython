@@ -1,0 +1,7 @@
+__pycache__/
+routes/__pycache__/
+service/__pycache__/
+models/__pycache__/
+migrations
+local_develop
+python
